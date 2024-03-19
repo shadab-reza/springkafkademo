@@ -12,7 +12,7 @@ public class KafkaController {
     @Autowired
     private Producer producer;
     @GetMapping("/kafka/produce")
-    public void getKafkaTopicMsg(@RequestParam String message){
+    public void getKafkaTopicMsg(@RequestParam("message") String message){
         producer.sendMsgTopic(message);
     }
 }
