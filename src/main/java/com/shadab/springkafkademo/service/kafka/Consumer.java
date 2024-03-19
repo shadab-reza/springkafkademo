@@ -1,4 +1,4 @@
-package com.shadab.microservicekafkademowithci.service.kafka;
+package com.shadab.springkafkademo.service.kafka;
 
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;

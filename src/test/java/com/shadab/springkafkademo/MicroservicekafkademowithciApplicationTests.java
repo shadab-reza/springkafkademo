@@ -1,10 +1,10 @@
-package com.shadab.microservicekafkademowithci;
+package com.shadab.springkafkademo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MicroservicekafkademowithciApplicationTests {
+class springkafkademoApplicationTests {
 
 	@Test
 	void contextLoads() {
