@@ -13,7 +13,6 @@ public class KafkaController {
     private Producer producer;
     @GetMapping("/kafka/produce")
     public void getKafkaTopicMsg(@RequestParam String message){
-        System.out.println("test");
-producer.sendMsgTopic(message);
+        producer.sendMsgTopic(message);
     }
 }
