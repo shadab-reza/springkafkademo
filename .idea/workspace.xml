@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc37d4b4-3bd2-47f6-9c9c-020d0f5a090d" name="Changes" comment="cleanup" />
+    <list default="true" id="dc37d4b4-3bd2-47f6-9c9c-020d0f5a090d" name="Changes" comment="cleanup">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +39,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shadab-reza"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bd578381-a280-42a6-96c6-fa9570559a8d" />
+        <option name="url" value="https://github.com/shadab-reza/springkafkademo.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -59,10 +75,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.MicroservicekafkademowithciApplication.executor": "Run",
+    "Application.MicroservicekafkademowithciApplication.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/spring-apps/springkafkademo",
@@ -77,8 +93,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="MicroservicekafkademowithciApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shadab.microservicekafkademowithci.MicroservicekafkademowithciApplication" />
+    <configuration name="SpringKafkaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shadab.microservicekafkademowithci.SpringKafkaDemo" />
       <module name="microservicekafkademowithci" />
       <extension name="coverage">
         <pattern>
@@ -92,7 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MicroservicekafkademowithciApplication" />
+        <item itemvalue="Application.SpringKafkaDemo" />
       </list>
     </recent_temporary>
   </component>
